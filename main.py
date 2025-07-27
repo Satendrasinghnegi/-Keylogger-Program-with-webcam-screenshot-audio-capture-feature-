@@ -41,8 +41,8 @@ number_of_iterations_end = 1
 
 
 
-email_address = "satendranegi697@gmail.com"
-password = "otpn hcqd zvur dwwy"
+email_address = "Enter the email from which files are sent"
+password = "security key"
 toaddr = "cryptomodel2025@gmail.com"
 key="aIIcUd4LOIB6ErAsHFhikUi5xa-OtuVsJmMbMv_9xH0="
 
